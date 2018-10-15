@@ -1,0 +1,6 @@
+{
+  "name": "flow-events",
+  "version": "1.0.0",
+  "main": "flow-events.js",
+  "license": "MIT"
+}
